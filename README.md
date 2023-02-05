@@ -16,11 +16,15 @@
 &nbsp;
 <a href="https://www.w3.org/TR/CSS/#css"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 &nbsp;
+<a href="https://sass-lang.com/"><img src="./images/sass.svg" width="36" height="36" alt="Sass" /></a>
+&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 &nbsp;
 <a href="https://webpack.js.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
 &nbsp;
 <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+&nbsp;
+<a href="https://gulpjs.com/"><img src="./images/gulp.svg" width="36" height="36" alt="Gulp" /></a>
 &nbsp;
 <a href="https://git-scm.com/"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" width="36" height="36" alt="Git" /></a>
 &nbsp;
