@@ -43,6 +43,9 @@
 &nbsp;
 <a href="https://www.adobe.com/ru/products/illustrator.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 
+### Codewars:
+[![codewars](https://www.codewars.com/users/stearthkz/badges/large)](https://www.codewars.com/users/stearthkz)
+
 ### Контакты:
 * ✉️ Вы можете связаться со мной по [stearthkz@mail.ru](mailto:stearthkz@mail.ru)
 * 🔗 Telegram: [@sergey_tsepilov](https://t.me/sergey_tsepilov)
