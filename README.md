@@ -1,6 +1,6 @@
 <h1 align="center">Привет, я Сергей <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-### Я Front-end разработчик.
+### Я Frontend-разработчик.
 
 ### Мои правила:
 * ✍ Писать понятный код, который легко развивать и поддерживать.
